@@ -9,7 +9,9 @@
 <ol><ul>microcontroller node mcu</ul>
 <ul>ldr sensor</ul>
 <ul>soil moisture sensor</ul>
+<ul>pump</ul>
 </ol>
-<br>App made for analysing sensor data and manage on/off manually also.
+<br>
+  <p>App made for analysing sensor data and manage on/off manually also. App screen 2 includes graph of sensors containing values fetched from node mcu.</p>
 </body>
 </html>
